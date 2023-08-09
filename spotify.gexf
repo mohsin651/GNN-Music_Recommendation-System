@@ -1,0 +1,1183 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2021-12-12">
+    <creator>NetworkX 2.6.3</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="(sic)boy" label="(sic)boy" />
+      <node id="Jez Dior" label="Jez Dior" />
+      <node id="KM" label="KM" />
+      <node id="2 Chainz" label="2 Chainz" />
+      <node id="B.o.B" label="B.o.B" />
+      <node id="Coucheron" label="Coucheron" />
+      <node id="MadeinTYO" label="MadeinTYO" />
+      <node id="Migos" label="Migos" />
+      <node id="OG Maco" label="OG Maco" />
+      <node id="PnB Rock" label="PnB Rock" />
+      <node id="Wiz Khalifa" label="Wiz Khalifa" />
+      <node id="Young Thug" label="Young Thug" />
+      <node id="21 Savage" label="21 Savage" />
+      <node id="Dae Dae" label="Dae Dae" />
+      <node id="Drake" label="Drake" />
+      <node id="Future" label="Future" />
+      <node id="London On Da Track" label="London On Da Track" />
+      <node id="Metro Boomin" label="Metro Boomin" />
+      <node id="Post Malone" label="Post Malone" />
+      <node id="Project Pat" label="Project Pat" />
+      <node id="YoungBoy Never Broke Again" label="YoungBoy Never Broke Again" />
+      <node id="24kGoldn" label="24kGoldn" />
+      <node id="iann dior" label="iann dior" />
+      <node id="6LACK" label="6LACK" />
+      <node id="J. Cole" label="J. Cole" />
+      <node id="Khalid" label="Khalid" />
+      <node id="A Boogie Wit da Hoodie" label="A Boogie Wit da Hoodie" />
+      <node id="Chris Brown" label="Chris Brown" />
+      <node id="DJ SpinKing" label="DJ SpinKing" />
+      <node id="Don Q" label="Don Q" />
+      <node id="Jessie Reyez" label="Jessie Reyez" />
+      <node id="Kodak Black" label="Kodak Black" />
+      <node id="Lil Uzi Vert" label="Lil Uzi Vert" />
+      <node id="Summer Walker" label="Summer Walker" />
+      <node id="A Great Big World" label="A Great Big World" />
+      <node id="Christina Aguilera" label="Christina Aguilera" />
+      <node id="A$AP Ferg" label="A$AP Ferg" />
+      <node id="A$AP Rocky" label="A$AP Rocky" />
+      <node id="French Montana" label="French Montana" />
+      <node id="ScHoolboy Q" label="ScHoolboy Q" />
+      <node id="Trinidad James" label="Trinidad James" />
+      <node id="AAAMYYY" label="AAAMYYY" />
+      <node id="Daichi Yamamoto" label="Daichi Yamamoto" />
+      <node id="Yaffle" label="Yaffle" />
+      <node id="AKLO" label="AKLO" />
+      <node id="KEIJU" label="KEIJU" />
+      <node id="Kvi Baba" label="Kvi Baba" />
+      <node id="ASOBOiSM" label="ASOBOiSM" />
+      <node id="MÖSHI" label="MÖSHI" />
+      <node id="Aaliyah" label="Aaliyah" />
+      <node id="Adrenalize" label="Adrenalize" />
+      <node id="Atmozfears" label="Atmozfears" />
+      <node id="Code Black" label="Code Black" />
+      <node id="Da Tweekaz" label="Da Tweekaz" />
+      <node id="Matthew Steeper" label="Matthew Steeper" />
+      <node id="Pulse" label="Pulse" />
+      <node id="Aerosmith" label="Aerosmith" />
+      <node id="Run–D.M.C." label="Run–D.M.C." />
+      <node id="Aitor Blond" label="Aitor Blond" />
+      <node id="Sounxstate" label="Sounxstate" />
+      <node id="Alec Benjamin" label="Alec Benjamin" />
+      <node id="Alessia Cara" label="Alessia Cara" />
+      <node id="Logic" label="Logic" />
+      <node id="Alessia Labate" label="Alessia Labate" />
+      <node id="CHRNS" label="CHRNS" />
+      <node id="Rich Edwards" label="Rich Edwards" />
+      <node id="Alesso" label="Alesso" />
+      <node id="Calvin Harris" label="Calvin Harris" />
+      <node id="Hurts" label="Hurts" />
+      <node id="Alicia Keys" label="Alicia Keys" />
+      <node id="Jack White" label="Jack White" />
+      <node id="Alina Baraz" label="Alina Baraz" />
+      <node id="Galimatias" label="Galimatias" />
+      <node id="Alisa" label="Alisa" />
+      <node id="Hoang" label="Hoang" />
+      <node id="AmanderSings" label="AmanderSings" />
+      <node id="BEAUZ" label="BEAUZ" />
+      <node id="Ghost" label="Ghost" />
+      <node id="Anaya Lovenote" label="Anaya Lovenote" />
+      <node id="Chanel West Coast" label="Chanel West Coast" />
+      <node id="Salma Slims" label="Salma Slims" />
+      <node id="Anderson .Paak" label="Anderson .Paak" />
+      <node id="BJ The Chicago Kid" label="BJ The Chicago Kid" />
+      <node id="Bruno Mars" label="Bruno Mars" />
+      <node id="Chance the Rapper" label="Chance the Rapper" />
+      <node id="Raury" label="Raury" />
+      <node id="Silk Sonic" label="Silk Sonic" />
+      <node id="Ty Dolla $ign" label="Ty Dolla $ign" />
+      <node id="Anklebreaker" label="Anklebreaker" />
+      <node id="D-Stroyer" label="D-Stroyer" />
+      <node id="Stormerz" label="Stormerz" />
+      <node id="TCM" label="TCM" />
+      <node id="Tom Leinad" label="Tom Leinad" />
+      <node id="Annie Lennox" label="Annie Lennox" />
+      <node id="Dave Stewart" label="Dave Stewart" />
+      <node id="Eurythmics" label="Eurythmics" />
+      <node id="Ansel Elgort" label="Ansel Elgort" />
+      <node id="Anuel AA" label="Anuel AA" />
+      <node id="Becky G" label="Becky G" />
+      <node id="Brytiago" label="Brytiago" />
+      <node id="DJ Luian" label="DJ Luian" />
+      <node id="Darell" label="Darell" />
+      <node id="Mambo Kingz" label="Mambo Kingz" />
+      <node id="Nicky Jam" label="Nicky Jam" />
+      <node id="Prince Royce" label="Prince Royce" />
+      <node id="Arash Shadram" label="Arash Shadram" />
+      <node id="Coeus" label="Coeus" />
+      <node id="Eleonora" label="Eleonora" />
+      <node id="Aretha Franklin" label="Aretha Franklin" />
+      <node id="George Michael" label="George Michael" />
+      <node id="Ari Lennox" label="Ari Lennox" />
+      <node id="Dreamville" label="Dreamville" />
+      <node id="Ariana Grande" label="Ariana Grande" />
+      <node id="The Weeknd" label="The Weeknd" />
+      <node id="Armand Van Helden" label="Armand Van Helden" />
+      <node id="Dizzee Rascal" label="Dizzee Rascal" />
+      <node id="Au5" label="Au5" />
+      <node id="HALIENE" label="HALIENE" />
+      <node id="August Alsina" label="August Alsina" />
+      <node id="Curren$y" label="Curren$y" />
+      <node id="Fabolous" label="Fabolous" />
+      <node id="Awakend" label="Awakend" />
+      <node id="Outwild" label="Outwild" />
+      <node id="The Ready Set" label="The Ready Set" />
+      <node id="Axollo" label="Axollo" />
+      <node id="Josh Bogert" label="Josh Bogert" />
+      <node id="Classified" label="Classified" />
+      <node id="NEFFEX" label="NEFFEX" />
+      <node id="BIA" label="BIA" />
+      <node id="Nicki Minaj" label="Nicki Minaj" />
+      <node id="BTS" label="BTS" />
+      <node id="Coldplay" label="Coldplay" />
+      <node id="BUMKEY" label="BUMKEY" />
+      <node id="MIYACHI" label="MIYACHI" />
+      <node id="Bankroll Fresh" label="Bankroll Fresh" />
+      <node id="Street Money Boochie" label="Street Money Boochie" />
+      <node id="Travis Porter" label="Travis Porter" />
+      <node id="Barbara Dickson" label="Barbara Dickson" />
+      <node id="Elaine Paige" label="Elaine Paige" />
+      <node id="Barbra Streisand" label="Barbra Streisand" />
+      <node id="Bryan Adams" label="Bryan Adams" />
+      <node id="Céline Dion" label="Céline Dion" />
+      <node id="Bassnectar" label="Bassnectar" />
+      <node id="Lafa Taylor" label="Lafa Taylor" />
+      <node id="Ohana Bam" label="Ohana Bam" />
+      <node id="Benjazzy" label="Benjazzy" />
+      <node id="JJJ" label="JJJ" />
+      <node id="Bibiane Z" label="Bibiane Z" />
+      <node id="Thimlife" label="Thimlife" />
+      <node id="Big Sean" label="Big Sean" />
+      <node id="Bill Medley" label="Bill Medley" />
+      <node id="Jennifer Warnes" label="Jennifer Warnes" />
+      <node id="Billie Eilish" label="Billie Eilish" />
+      <node id="Billy Idol" label="Billy Idol" />
+      <node id="Generation X" label="Generation X" />
+      <node id="Billy J. Kramer" label="Billy J. Kramer" />
+      <node id="The Dakotas" label="The Dakotas" />
+      <node id="BoA" label="BoA" />
+      <node id="Mondo Grosso" label="Mondo Grosso" />
+      <node id="Boosie Badazz" label="Boosie Badazz" />
+      <node id="T.I." label="T.I." />
+      <node id="Brendon Urie" label="Brendon Urie" />
+      <node id="Juice WRLD" label="Juice WRLD" />
+      <node id="benny blanco" label="benny blanco" />
+      <node id="Britney Spears" label="Britney Spears" />
+      <node id="Madonna" label="Madonna" />
+      <node id="Pharrell Williams" label="Pharrell Williams" />
+      <node id="The Neptunes" label="The Neptunes" />
+      <node id="David Guetta" label="David Guetta" />
+      <node id="Snoop Dogg" label="Snoop Dogg" />
+      <node id="Melanie C" label="Melanie C" />
+      <node id="BullySongs" label="BullySongs" />
+      <node id="EL3CTRXX" label="EL3CTRXX" />
+      <node id="Riggi &amp; Piros" label="Riggi &amp; Piros" />
+      <node id="C.O.S.A." label="C.O.S.A." />
+      <node id="KID FRESINO" label="KID FRESINO" />
+      <node id="CHAI" label="CHAI" />
+      <node id="Confidence Man" label="Confidence Man" />
+      <node id="CHAMELEON LIME WHOOPIEPIE" label="CHAMELEON LIME WHOOPIEPIE" />
+      <node id="TCTS" label="TCTS" />
+      <node id="CMA" label="CMA" />
+      <node id="Electus" label="Electus" />
+      <node id="John Newman" label="John Newman" />
+      <node id="Cardi B" label="Cardi B" />
+      <node id="Lizzo" label="Lizzo" />
+      <node id="Normani" label="Normani" />
+      <node id="Carrie Underwood" label="Carrie Underwood" />
+      <node id="Jason Aldean" label="Jason Aldean" />
+      <node id="Keith Urban" label="Keith Urban" />
+      <node id="Caslow" label="Caslow" />
+      <node id="Exede" label="Exede" />
+      <node id="Molly Marrs" label="Molly Marrs" />
+      <node id="Nick Ledesma" label="Nick Ledesma" />
+      <node id="TIMO" label="TIMO" />
+      <node id="Cazzu" label="Cazzu" />
+      <node id="Dalex" label="Dalex" />
+      <node id="Feid" label="Feid" />
+      <node id="KHEA" label="KHEA" />
+      <node id="Lenny Tavárez" label="Lenny Tavárez" />
+      <node id="Rafa Pabön" label="Rafa Pabön" />
+      <node id="Sech" label="Sech" />
+      <node id="Cerys Matthews" label="Cerys Matthews" />
+      <node id="Tom Jones" label="Tom Jones" />
+      <node id="Hundred Waters" label="Hundred Waters" />
+      <node id="Macklemore" label="Macklemore" />
+      <node id="Moses Sumney" label="Moses Sumney" />
+      <node id="Robin Hannibal" label="Robin Hannibal" />
+      <node id="Ryan Lewis" label="Ryan Lewis" />
+      <node id="Skrillex" label="Skrillex" />
+      <node id="Charlie Puth" label="Charlie Puth" />
+      <node id="Chase Rice" label="Chase Rice" />
+      <node id="Florida Georgia Line" label="Florida Georgia Line" />
+      <node id="Chasing Grace" label="Chasing Grace" />
+      <node id="James Arthur" label="James Arthur" />
+      <node id="Cheat Codes" label="Cheat Codes" />
+      <node id="Demi Lovato" label="Demi Lovato" />
+      <node id="Chinx" label="Chinx" />
+      <node id="Jeremih" label="Jeremih" />
+      <node id="MeetSims" label="MeetSims" />
+      <node id="DJ Drama" label="DJ Drama" />
+      <node id="DaVido" label="DaVido" />
+      <node id="DaniLeigh" label="DaniLeigh" />
+      <node id="Gunna" label="Gunna" />
+      <node id="H.E.R." label="H.E.R." />
+      <node id="JUVENILE" label="JUVENILE" />
+      <node id="Jhené Aiko" label="Jhené Aiko" />
+      <node id="Juicy J" label="Juicy J" />
+      <node id="Kevin McCall" label="Kevin McCall" />
+      <node id="Ludacris" label="Ludacris" />
+      <node id="Rick Ross" label="Rick Ross" />
+      <node id="Tory Lanez" label="Tory Lanez" />
+      <node id="Trey Songz" label="Trey Songz" />
+      <node id="Tyga" label="Tyga" />
+      <node id="Usher" label="Usher" />
+      <node id="ZAYN" label="ZAYN" />
+      <node id="Chris James" label="Chris James" />
+      <node id="deadmau5" label="deadmau5" />
+      <node id="Chris Young" label="Chris Young" />
+      <node id="Kane Brown" label="Kane Brown" />
+      <node id="Ricky Martin" label="Ricky Martin" />
+      <node id="Christoph Andersson" label="Christoph Andersson" />
+      <node id="G-Eazy" label="G-Eazy" />
+      <node id="Colbie Caillat" label="Colbie Caillat" />
+      <node id="Jason Mraz" label="Jason Mraz" />
+      <node id="Rihanna" label="Rihanna" />
+      <node id="Cory Gunz" label="Cory Gunz" />
+      <node id="Lil Wayne" label="Lil Wayne" />
+      <node id="Craig David" label="Craig David" />
+      <node id="Sting" label="Sting" />
+      <node id="DE DE MOUSE" label="DE DE MOUSE" />
+      <node id="ぷにぷに電機" label="ぷにぷに電機" />
+      <node id="DJ Khaled" label="DJ Khaled" />
+      <node id="Lil Baby" label="Lil Baby" />
+      <node id="Lil Durk" label="Lil Durk" />
+      <node id="DROELOE" label="DROELOE" />
+      <node id="TWO LANES" label="TWO LANES" />
+      <node id="DaBaby" label="DaBaby" />
+      <node id="Dua Lipa" label="Dua Lipa" />
+      <node id="Lil Yachty" label="Lil Yachty" />
+      <node id="Daft Punk" label="Daft Punk" />
+      <node id="The Glitch Mob" label="The Glitch Mob" />
+      <node id="Daniel Caesar" label="Daniel Caesar" />
+      <node id="Giveon" label="Giveon" />
+      <node id="Justin Bieber" label="Justin Bieber" />
+      <node id="Darren Styles" label="Darren Styles" />
+      <node id="Dougal" label="Dougal" />
+      <node id="Jacob Wellfair" label="Jacob Wellfair" />
+      <node id="Dave Days" label="Dave Days" />
+      <node id="Jarrod Alonge" label="Jarrod Alonge" />
+      <node id="David Bowie" label="David Bowie" />
+      <node id="Queen" label="Queen" />
+      <node id="Daya" label="Daya" />
+      <node id="Hardwell" label="Hardwell" />
+      <node id="Sephyx" label="Sephyx" />
+      <node id="The Chainsmokers" label="The Chainsmokers" />
+      <node id="DeJ Loaf" label="DeJ Loaf" />
+      <node id="Jacquees" label="Jacquees" />
+      <node id="Devon Baldwin" label="Devon Baldwin" />
+      <node id="Nurko" label="Nurko" />
+      <node id="Diana Ross" label="Diana Ross" />
+      <node id="Lionel Richie" label="Lionel Richie" />
+      <node id="Marvin Gaye" label="Marvin Gaye" />
+      <node id="Dido" label="Dido" />
+      <node id="Eminem" label="Eminem" />
+      <node id="Disclosure" label="Disclosure" />
+      <node id="Sam Smith" label="Sam Smith" />
+      <node id="Doja Cat" label="Doja Cat" />
+      <node id="SZA" label="SZA" />
+      <node id="Saweetie" label="Saweetie" />
+      <node id="Domeno" label="Domeno" />
+      <node id="Garrett Raff" label="Garrett Raff" />
+      <node id="Karl Sylver" label="Karl Sylver" />
+      <node id="Gucci Mane" label="Gucci Mane" />
+      <node id="Kanye West" label="Kanye West" />
+      <node id="Kendrick Lamar" label="Kendrick Lamar" />
+      <node id="Kyla" label="Kyla" />
+      <node id="Meek Mill" label="Meek Mill" />
+      <node id="PARTYNEXTDOOR" label="PARTYNEXTDOOR" />
+      <node id="Roy Woods" label="Roy Woods" />
+      <node id="Smiley" label="Smiley" />
+      <node id="Travis Scott" label="Travis Scott" />
+      <node id="WizKid" label="WizKid" />
+      <node id="Young Money" label="Young Money" />
+      <node id="Elton John" label="Elton John" />
+      <node id="PNAU" label="PNAU" />
+      <node id="Duke" label="Duke" />
+      <node id="E-40" label="E-40" />
+      <node id="Jay Anthony" label="Jay Anthony" />
+      <node id="EMEL" label="EMEL" />
+      <node id="Stonebank" label="Stonebank" />
+      <node id="East 17" label="East 17" />
+      <node id="Gabrielle" label="Gabrielle" />
+      <node id="Ed Sheeran" label="Ed Sheeran" />
+      <node id="Taylor Swift" label="Taylor Swift" />
+      <node id="Elley Duhé" label="Elley Duhé" />
+      <node id="Gryffin" label="Gryffin" />
+      <node id="Steve Aoki" label="Steve Aoki" />
+      <node id="Kiki Dee" label="Kiki Dee" />
+      <node id="Elyn" label="Elyn" />
+      <node id="Jay Reeve" label="Jay Reeve" />
+      <node id="Emeli Sandé" label="Emeli Sandé" />
+      <node id="Labrinth" label="Labrinth" />
+      <node id="Nate Dogg" label="Nate Dogg" />
+      <node id="En Vogue" label="En Vogue" />
+      <node id="Salt-N-Pepa" label="Salt-N-Pepa" />
+      <node id="Eurielle" label="Eurielle" />
+      <node id="Quality Control" label="Quality Control" />
+      <node id="GhostDragon" label="GhostDragon" />
+      <node id="yetep" label="yetep" />
+      <node id="FRONTIER BACKYARD" label="FRONTIER BACKYARD" />
+      <node id="Hugh Kim" label="Hugh Kim" />
+      <node id="Fausto Fanizza" label="Fausto Fanizza" />
+      <node id="Thomas Schwartz" label="Thomas Schwartz" />
+      <node id="Feyln" label="Feyln" />
+      <node id="Tristan Klampert" label="Tristan Klampert" />
+      <node id="Flaremode" label="Flaremode" />
+      <node id="Krimsonn" label="Krimsonn" />
+      <node id="Thomas Gold" label="Thomas Gold" />
+      <node id="Nelly" label="Nelly" />
+      <node id="Freddie Mercury" label="Freddie Mercury" />
+      <node id="Montserrat Caballé" label="Montserrat Caballé" />
+      <node id="G.R.L." label="G.R.L." />
+      <node id="Pitbull" label="Pitbull" />
+      <node id="Gambitt" label="Gambitt" />
+      <node id="Gil Zambrano" label="Gil Zambrano" />
+      <node id="Into The Ether" label="Into The Ether" />
+      <node id="Gareth Gates" label="Gareth Gates" />
+      <node id="Will Young" label="Will Young" />
+      <node id="Garrett Nash" label="Garrett Nash" />
+      <node id="Olivia O'Brien" label="Olivia O'Brien" />
+      <node id="Gary Barlow" label="Gary Barlow" />
+      <node id="Robbie Williams" label="Robbie Williams" />
+      <node id="Mary J. Blige" label="Mary J. Blige" />
+      <node id="Glen Hansard" label="Glen Hansard" />
+      <node id="Markéta Irglová" label="Markéta Irglová" />
+      <node id="Gotye" label="Gotye" />
+      <node id="Kimbra" label="Kimbra" />
+      <node id="Green Day" label="Green Day" />
+      <node id="John Gallagher Jr." label="John Gallagher Jr." />
+      <node id="Rebecca Naomi Jones" label="Rebecca Naomi Jones" />
+      <node id="Stark Sands" label="Stark Sands" />
+      <node id="The American Idiot Broadway Company" label="The American Idiot Broadway Company" />
+      <node id="Ivy Adara" label="Ivy Adara" />
+      <node id="Offset" label="Offset" />
+      <node id="Rae Sremmurd" label="Rae Sremmurd" />
+      <node id="Hal David" label="Hal David" />
+      <node id="John Barry" label="John Barry" />
+      <node id="Shirley Bassey" label="Shirley Bassey" />
+      <node id="Halsey" label="Halsey" />
+      <node id="Halston Dare" label="Halston Dare" />
+      <node id="Riddler" label="Riddler" />
+      <node id="Hellblasterz" label="Hellblasterz" />
+      <node id="Kevu" label="Kevu" />
+      <node id="Luca Testa" label="Luca Testa" />
+      <node id="Herbie Hancock" label="Herbie Hancock" />
+      <node id="笠井 紀美子" label="笠井 紀美子" />
+      <node id="Hikari" label="Hikari" />
+      <node id="Tokimeki Records" label="Tokimeki Records" />
+      <node id="Hogland" label="Hogland" />
+      <node id="KIDDO" label="KIDDO" />
+      <node id="ISH-ONE" label="ISH-ONE" />
+      <node id="TEAM2MVCH" label="TEAM2MVCH" />
+      <node id="Imagine Dragons" label="Imagine Dragons" />
+      <node id="J. Davi$" label="J. Davi$" />
+      <node id="Rob $tone" label="Rob $tone" />
+      <node id="Spooks" label="Spooks" />
+      <node id="JAY-Z" label="JAY-Z" />
+      <node id="JB Brubaker" label="JB Brubaker" />
+      <node id="Sunrise Skater Kids" label="Sunrise Skater Kids" />
+      <node id="JNKMN" label="JNKMN" />
+      <node id="Leon Fanourakis" label="Leon Fanourakis" />
+      <node id="MFS" label="MFS" />
+      <node id="MONY HORSE" label="MONY HORSE" />
+      <node id="SPARTA" label="SPARTA" />
+      <node id="JRL" label="JRL" />
+      <node id="Jonny Rose" label="Jonny Rose" />
+      <node id="Manse" label="Manse" />
+      <node id="Taichi Mukai" label="Taichi Mukai" />
+      <node id="Jack Harlow" label="Jack Harlow" />
+      <node id="Lil Nas X" label="Lil Nas X" />
+      <node id="Lil Gotit" label="Lil Gotit" />
+      <node id="Lil Keed" label="Lil Keed" />
+      <node id="James Morrison" label="James Morrison" />
+      <node id="Nelly Furtado" label="Nelly Furtado" />
+      <node id="James Ty" label="James Ty" />
+      <node id="King CAAN" label="King CAAN" />
+      <node id="Janelle Monáe" label="Janelle Monáe" />
+      <node id="fun." label="fun." />
+      <node id="Jason Donovan" label="Jason Donovan" />
+      <node id="Kylie Minogue" label="Kylie Minogue" />
+      <node id="Jason Ross" label="Jason Ross" />
+      <node id="Jonathan Mendelsohn" label="Jonathan Mendelsohn" />
+      <node id="Seven Lions" label="Seven Lions" />
+      <node id="Joe Cocker" label="Joe Cocker" />
+      <node id="Johnny Cash" label="Johnny Cash" />
+      <node id="June Carter Cash" label="June Carter Cash" />
+      <node id="Jonas Brothers" label="Jonas Brothers" />
+      <node id="Marshmello" label="Marshmello" />
+      <node id="Jordyn Oran" label="Jordyn Oran" />
+      <node id="KRYSTO" label="KRYSTO" />
+      <node id="Tems" label="Tems" />
+      <node id="The Kid LAROI" label="The Kid LAROI" />
+      <node id="KIRINJI" label="KIRINJI" />
+      <node id="Maika Loubté" label="Maika Loubté" />
+      <node id="Lil' Leise But Gold" label="Lil' Leise But Gold" />
+      <node id="KYLE" label="KYLE" />
+      <node id="Kaidro" label="Kaidro" />
+      <node id="Kali Uchis" label="Kali Uchis" />
+      <node id="Tyler, The Creator" label="Tyler, The Creator" />
+      <node id="Kan Sano" label="Kan Sano" />
+      <node id="blackbear" label="blackbear" />
+      <node id="Kap G" label="Kap G" />
+      <node id="Quavo" label="Quavo" />
+      <node id="Keith Ape" label="Keith Ape" />
+      <node id="Rich Brian" label="Rich Brian" />
+      <node id="XXXTENTACION" label="XXXTENTACION" />
+      <node id="P!nk" label="P!nk" />
+      <node id="Kellin Quinn" label="Kellin Quinn" />
+      <node id="Pierce The Veil" label="Pierce The Veil" />
+      <node id="Kevin Flum" label="Kevin Flum" />
+      <node id="Speaker Knockerz" label="Speaker Knockerz" />
+      <node id="Lorde" label="Lorde" />
+      <node id="Kid Cudi" label="Kid Cudi" />
+      <node id="MGMT" label="MGMT" />
+      <node id="Ratatat" label="Ratatat" />
+      <node id="Kiesza" label="Kiesza" />
+      <node id="Lamorn" label="Lamorn" />
+      <node id="Kimberg" label="Kimberg" />
+      <node id="Ovylarock" label="Ovylarock" />
+      <node id="Kirsty MacColl" label="Kirsty MacColl" />
+      <node id="The Pogues" label="The Pogues" />
+      <node id="Kiyotaka Sugiyama" label="Kiyotaka Sugiyama" />
+      <node id="S. Kiyotaka &amp; Omega Tribe" label="S. Kiyotaka &amp; Omega Tribe" />
+      <node id="Kosling" label="Kosling" />
+      <node id="LUX" label="LUX" />
+      <node id="OMZ" label="OMZ" />
+      <node id="Robbie Rosen" label="Robbie Rosen" />
+      <node id="Still Young" label="Still Young" />
+      <node id="LAGHEADS" label="LAGHEADS" />
+      <node id="kiki vivi lily" label="kiki vivi lily" />
+      <node id="Laniia" label="Laniia" />
+      <node id="VIZE" label="VIZE" />
+      <node id="Lasso the Sun" label="Lasso the Sun" />
+      <node id="Patrick Key" label="Patrick Key" />
+      <node id="WildVibes" label="WildVibes" />
+      <node id="Last Heroes" label="Last Heroes" />
+      <node id="Lunis" label="Lunis" />
+      <node id="Leila Pari" label="Leila Pari" />
+      <node id="N3WPORT" label="N3WPORT" />
+      <node id="Lennon" label="Lennon" />
+      <node id="Orono" label="Orono" />
+      <node id="mabanua" label="mabanua" />
+      <node id="Liam Payne" label="Liam Payne" />
+      <node id="Oh Wonder" label="Oh Wonder" />
+      <node id="Wale" label="Wale" />
+      <node id="Shelley FKA DRAM" label="Shelley FKA DRAM" />
+      <node id="Skippa Da Flippa" label="Skippa Da Flippa" />
+      <node id="Tee Grizzley" label="Tee Grizzley" />
+      <node id="YFN Lucci" label="YFN Lucci" />
+      <node id="Lloyd" label="Lloyd" />
+      <node id="Luca" label="Luca" />
+      <node id="NVRT" label="NVRT" />
+      <node id="Machine Gun Kelly" label="Machine Gun Kelly" />
+      <node id="Skylar Grey" label="Skylar Grey" />
+      <node id="Maki Nomiya" label="Maki Nomiya" />
+      <node id="Night Tempo" label="Night Tempo" />
+      <node id="Mako" label="Mako" />
+      <node id="Steve Angello" label="Steve Angello" />
+      <node id="Maren Morris" label="Maren Morris" />
+      <node id="Ryan Hurd" label="Ryan Hurd" />
+      <node id="Mariah Carey" label="Mariah Carey" />
+      <node id="Westlife" label="Westlife" />
+      <node id="Whitney Houston" label="Whitney Houston" />
+      <node id="Mark With a K" label="Mark With a K" />
+      <node id="Xillions" label="Xillions" />
+      <node id="Maroon 5" label="Maroon 5" />
+      <node id="Megan Thee Stallion" label="Megan Thee Stallion" />
+      <node id="U2" label="U2" />
+      <node id="Masaaki Hirao" label="Masaaki Hirao" />
+      <node id="Yoko Hatanaka" label="Yoko Hatanaka" />
+      <node id="Michael Kaneko" label="Michael Kaneko" />
+      <node id="Yu Sakai" label="Yu Sakai" />
+      <node id="Mikky Ekko" label="Mikky Ekko" />
+      <node id="Mitchell Niemeyer" label="Mitchell Niemeyer" />
+      <node id="The Partysquad" label="The Partysquad" />
+      <node id="Mr. Ivex" label="Mr. Ivex" />
+      <node id="Sefa" label="Sefa" />
+      <node id="NAV" label="NAV" />
+      <node id="NF Zessho" label="NF Zessho" />
+      <node id="RhymeTube" label="RhymeTube" />
+      <node id="ZIN" label="ZIN" />
+      <node id="Nao'ymt" label="Nao'ymt" />
+      <node id="OHTORA" label="OHTORA" />
+      <node id="Naomi Wild" label="Naomi Wild" />
+      <node id="ODESZA" label="ODESZA" />
+      <node id="Natalie Major" label="Natalie Major" />
+      <node id="Neneh Cherry" label="Neneh Cherry" />
+      <node id="Youssou N'Dour" label="Youssou N'Dour" />
+      <node id="Nezumi Coo" label="Nezumi Coo" />
+      <node id="Peach Boi" label="Peach Boi" />
+      <node id="Nicole Kidman" label="Nicole Kidman" />
+      <node id="Noiseshock" label="Noiseshock" />
+      <node id="Refuzion" label="Refuzion" />
+      <node id="O.T. Genasis" label="O.T. Genasis" />
+      <node id="Young Dolph" label="Young Dolph" />
+      <node id="Ofenbach" label="Ofenbach" />
+      <node id="Portugal. The Man" label="Portugal. The Man" />
+      <node id="Original Love" label="Original Love" />
+      <node id="Ovall" label="Ovall" />
+      <node id="Patsy Cline" label="Patsy Cline" />
+      <node id="The Jordanaires" label="The Jordanaires" />
+      <node id="Paula Abdul" label="Paula Abdul" />
+      <node id="The Wild Pair" label="The Wild Pair" />
+      <node id="Peabo Bryson" label="Peabo Bryson" />
+      <node id="Regina Belle" label="Regina Belle" />
+      <node id="Phil Collins" label="Phil Collins" />
+      <node id="Philip Bailey" label="Philip Bailey" />
+      <node id="Polo G" label="Polo G" />
+      <node id="Stunna Gambino" label="Stunna Gambino" />
+      <node id="Regard" label="Regard" />
+      <node id="Tate McRae" label="Tate McRae" />
+      <node id="Troye Sivan" label="Troye Sivan" />
+      <node id="Rich Gang" label="Rich Gang" />
+      <node id="Rich Homie Quan" label="Rich Homie Quan" />
+      <node id="Rob Thomas" label="Rob Thomas" />
+      <node id="Santana" label="Santana" />
+      <node id="Rosemary Clooney" label="Rosemary Clooney" />
+      <node id="The Mellomen" label="The Mellomen" />
+      <node id="SHIMA" label="SHIMA" />
+      <node id="Sumire" label="Sumire" />
+      <node id="SIRUP" label="SIRUP" />
+      <node id="サトウユウヤ" label="サトウユウヤ" />
+      <node id="Shin Sakiura" label="Shin Sakiura" />
+      <node id="TENDRE" label="TENDRE" />
+      <node id="Sia" label="Sia" />
+      <node id="Smokepurpp" label="Smokepurpp" />
+      <node id="Trippie Redd" label="Trippie Redd" />
+      <node id="Trevor Daniel" label="Trevor Daniel" />
+      <node id="The Cardigans" label="The Cardigans" />
+      <node id="sirenXX" label="sirenXX" />
+      <node id="Travis Barker" label="Travis Barker" />
+      <node id="VivaOla" label="VivaOla" />
+      <node id="Wez Atlas" label="Wez Atlas" />
+      <node id="Yosuke Nakano" label="Yosuke Nakano" />
+      <node id="yobai suspects" label="yobai suspects" />
+      <node id="guardin" label="guardin" />
+      <node id="guccihighwaters" label="guccihighwaters" />
+    </nodes>
+    <edges>
+      <edge source="(sic)boy" target="Jez Dior" id="0" weight="1" />
+      <edge source="(sic)boy" target="KM" id="1" weight="1" />
+      <edge source="Jez Dior" target="KM" id="2" weight="1" />
+      <edge source="KM" target="Lil' Leise But Gold" id="3" weight="1" />
+      <edge source="2 Chainz" target="B.o.B" id="4" weight="1" />
+      <edge source="2 Chainz" target="Coucheron" id="5" weight="1" />
+      <edge source="2 Chainz" target="MadeinTYO" id="6" weight="1" />
+      <edge source="2 Chainz" target="Migos" id="7" weight="1" />
+      <edge source="2 Chainz" target="OG Maco" id="8" weight="1" />
+      <edge source="2 Chainz" target="PnB Rock" id="9" weight="1" />
+      <edge source="2 Chainz" target="Wiz Khalifa" id="10" weight="1" />
+      <edge source="2 Chainz" target="Young Thug" id="11" weight="1" />
+      <edge source="B.o.B" target="Classified" id="12" weight="1" />
+      <edge source="B.o.B" target="Coucheron" id="13" weight="1" />
+      <edge source="MadeinTYO" target="Big Sean" id="14" weight="1" />
+      <edge source="Migos" target="Eurielle" id="15" weight="1" />
+      <edge source="Migos" target="Gucci Mane" id="16" weight="1" />
+      <edge source="Migos" target="Lil Uzi Vert" id="17" weight="2" />
+      <edge source="Migos" target="Quality Control" id="18" weight="1" />
+      <edge source="PnB Rock" target="A Boogie Wit da Hoodie" id="19" weight="1" />
+      <edge source="PnB Rock" target="Kodak Black" id="20" weight="3" />
+      <edge source="PnB Rock" target="Lil Yachty" id="21" weight="1" />
+      <edge source="PnB Rock" target="Wiz Khalifa" id="22" weight="2" />
+      <edge source="PnB Rock" target="YFN Lucci" id="23" weight="2" />
+      <edge source="PnB Rock" target="Young Thug" id="24" weight="1" />
+      <edge source="Wiz Khalifa" target="Bruno Mars" id="25" weight="1" />
+      <edge source="Wiz Khalifa" target="Charlie Puth" id="26" weight="1" />
+      <edge source="Wiz Khalifa" target="Lil Yachty" id="27" weight="1" />
+      <edge source="Wiz Khalifa" target="Snoop Dogg" id="28" weight="1" />
+      <edge source="Wiz Khalifa" target="YFN Lucci" id="29" weight="1" />
+      <edge source="Wiz Khalifa" target="Young Thug" id="30" weight="1" />
+      <edge source="Young Thug" target="Boosie Badazz" id="31" weight="1" />
+      <edge source="Young Thug" target="Drake" id="32" weight="1" />
+      <edge source="Young Thug" target="Duke" id="33" weight="1" />
+      <edge source="Young Thug" target="Future" id="34" weight="1" />
+      <edge source="Young Thug" target="Lil Yachty" id="35" weight="1" />
+      <edge source="Young Thug" target="Quavo" id="36" weight="1" />
+      <edge source="Young Thug" target="Rich Gang" id="37" weight="1" />
+      <edge source="Young Thug" target="Rich Homie Quan" id="38" weight="1" />
+      <edge source="Young Thug" target="Skippa Da Flippa" id="39" weight="1" />
+      <edge source="Young Thug" target="T.I." id="40" weight="1" />
+      <edge source="21 Savage" target="Dae Dae" id="41" weight="1" />
+      <edge source="21 Savage" target="Drake" id="42" weight="1" />
+      <edge source="21 Savage" target="Future" id="43" weight="2" />
+      <edge source="21 Savage" target="London On Da Track" id="44" weight="1" />
+      <edge source="21 Savage" target="Metro Boomin" id="45" weight="4" />
+      <edge source="21 Savage" target="Post Malone" id="46" weight="2" />
+      <edge source="21 Savage" target="Project Pat" id="47" weight="1" />
+      <edge source="21 Savage" target="YoungBoy Never Broke Again" id="48" weight="1" />
+      <edge source="Dae Dae" target="Lil Yachty" id="49" weight="2" />
+      <edge source="Dae Dae" target="London On Da Track" id="50" weight="1" />
+      <edge source="Drake" target="Chris Brown" id="51" weight="1" />
+      <edge source="Drake" target="Eminem" id="52" weight="1" />
+      <edge source="Drake" target="Future" id="53" weight="2" />
+      <edge source="Drake" target="Gucci Mane" id="54" weight="1" />
+      <edge source="Drake" target="Kanye West" id="55" weight="1" />
+      <edge source="Drake" target="Kendrick Lamar" id="56" weight="1" />
+      <edge source="Drake" target="Kyla" id="57" weight="1" />
+      <edge source="Drake" target="Lil Baby" id="58" weight="2" />
+      <edge source="Drake" target="Lil Wayne" id="59" weight="2" />
+      <edge source="Drake" target="Meek Mill" id="60" weight="1" />
+      <edge source="Drake" target="Nicki Minaj" id="61" weight="1" />
+      <edge source="Drake" target="PARTYNEXTDOOR" id="62" weight="1" />
+      <edge source="Drake" target="Project Pat" id="63" weight="1" />
+      <edge source="Drake" target="Rihanna" id="64" weight="1" />
+      <edge source="Drake" target="Roy Woods" id="65" weight="1" />
+      <edge source="Drake" target="Smiley" id="66" weight="1" />
+      <edge source="Drake" target="The Weeknd" id="67" weight="1" />
+      <edge source="Drake" target="Travis Scott" id="68" weight="1" />
+      <edge source="Drake" target="WizKid" id="69" weight="1" />
+      <edge source="Drake" target="Young Money" id="70" weight="1" />
+      <edge source="Future" target="Calvin Harris" id="71" weight="1" />
+      <edge source="Future" target="Khalid" id="72" weight="1" />
+      <edge source="Future" target="Kodak Black" id="73" weight="1" />
+      <edge source="Future" target="Metro Boomin" id="74" weight="2" />
+      <edge source="Future" target="The Weeknd" id="75" weight="1" />
+      <edge source="Post Malone" target="Khalid" id="76" weight="1" />
+      <edge source="Post Malone" target="Lorde" id="77" weight="1" />
+      <edge source="Post Malone" target="Quavo" id="78" weight="2" />
+      <edge source="Post Malone" target="SZA" id="79" weight="1" />
+      <edge source="Post Malone" target="The Weeknd" id="80" weight="1" />
+      <edge source="24kGoldn" target="iann dior" id="81" weight="1" />
+      <edge source="iann dior" target="Travis Barker" id="82" weight="1" />
+      <edge source="iann dior" target="Trippie Redd" id="83" weight="1" />
+      <edge source="6LACK" target="J. Cole" id="84" weight="1" />
+      <edge source="6LACK" target="Khalid" id="85" weight="1" />
+      <edge source="Khalid" target="A Boogie Wit da Hoodie" id="86" weight="1" />
+      <edge source="Khalid" target="Alessia Cara" id="87" weight="1" />
+      <edge source="Khalid" target="Alina Baraz" id="88" weight="1" />
+      <edge source="Khalid" target="Billie Eilish" id="89" weight="1" />
+      <edge source="Khalid" target="Calvin Harris" id="90" weight="1" />
+      <edge source="Khalid" target="Logic" id="91" weight="1" />
+      <edge source="Khalid" target="Lorde" id="92" weight="1" />
+      <edge source="Khalid" target="Marshmello" id="93" weight="1" />
+      <edge source="Khalid" target="SZA" id="94" weight="1" />
+      <edge source="A Boogie Wit da Hoodie" target="Chris Brown" id="95" weight="1" />
+      <edge source="A Boogie Wit da Hoodie" target="DJ SpinKing" id="96" weight="1" />
+      <edge source="A Boogie Wit da Hoodie" target="Don Q" id="97" weight="1" />
+      <edge source="A Boogie Wit da Hoodie" target="Jessie Reyez" id="98" weight="1" />
+      <edge source="A Boogie Wit da Hoodie" target="Kodak Black" id="99" weight="3" />
+      <edge source="A Boogie Wit da Hoodie" target="Lil Uzi Vert" id="100" weight="1" />
+      <edge source="A Boogie Wit da Hoodie" target="Summer Walker" id="101" weight="1" />
+      <edge source="Chris Brown" target="Aaliyah" id="102" weight="1" />
+      <edge source="Chris Brown" target="Big Sean" id="103" weight="1" />
+      <edge source="Chris Brown" target="DJ Drama" id="104" weight="1" />
+      <edge source="Chris Brown" target="DaVido" id="105" weight="1" />
+      <edge source="Chris Brown" target="DaniLeigh" id="106" weight="1" />
+      <edge source="Chris Brown" target="Fabolous" id="107" weight="1" />
+      <edge source="Chris Brown" target="Gunna" id="108" weight="1" />
+      <edge source="Chris Brown" target="H.E.R." id="109" weight="1" />
+      <edge source="Chris Brown" target="JUVENILE" id="110" weight="1" />
+      <edge source="Chris Brown" target="Jhené Aiko" id="111" weight="1" />
+      <edge source="Chris Brown" target="Juicy J" id="112" weight="1" />
+      <edge source="Chris Brown" target="Kevin McCall" id="113" weight="1" />
+      <edge source="Chris Brown" target="Ludacris" id="114" weight="1" />
+      <edge source="Chris Brown" target="Rick Ross" id="115" weight="1" />
+      <edge source="Chris Brown" target="Tory Lanez" id="116" weight="1" />
+      <edge source="Chris Brown" target="Trey Songz" id="117" weight="1" />
+      <edge source="Chris Brown" target="Ty Dolla $ign" id="118" weight="1" />
+      <edge source="Chris Brown" target="Tyga" id="119" weight="1" />
+      <edge source="Chris Brown" target="Usher" id="120" weight="2" />
+      <edge source="Chris Brown" target="ZAYN" id="121" weight="1" />
+      <edge source="Kodak Black" target="Offset" id="122" weight="1" />
+      <edge source="Kodak Black" target="XXXTENTACION" id="123" weight="1" />
+      <edge source="Lil Uzi Vert" target="Oh Wonder" id="124" weight="1" />
+      <edge source="Lil Uzi Vert" target="Quavo" id="125" weight="1" />
+      <edge source="Lil Uzi Vert" target="Travis Scott" id="126" weight="1" />
+      <edge source="Summer Walker" target="SZA" id="127" weight="1" />
+      <edge source="Summer Walker" target="Trevor Daniel" id="128" weight="1" />
+      <edge source="A Great Big World" target="Christina Aguilera" id="129" weight="1" />
+      <edge source="Christina Aguilera" target="Ricky Martin" id="130" weight="1" />
+      <edge source="A$AP Ferg" target="A$AP Rocky" id="131" weight="2" />
+      <edge source="A$AP Ferg" target="French Montana" id="132" weight="2" />
+      <edge source="A$AP Ferg" target="ScHoolboy Q" id="133" weight="2" />
+      <edge source="A$AP Ferg" target="Trinidad James" id="134" weight="2" />
+      <edge source="A$AP Rocky" target="French Montana" id="135" weight="2" />
+      <edge source="A$AP Rocky" target="ScHoolboy Q" id="136" weight="2" />
+      <edge source="A$AP Rocky" target="Trinidad James" id="137" weight="2" />
+      <edge source="French Montana" target="ScHoolboy Q" id="138" weight="2" />
+      <edge source="French Montana" target="Trinidad James" id="139" weight="2" />
+      <edge source="ScHoolboy Q" target="Trinidad James" id="140" weight="2" />
+      <edge source="AAAMYYY" target="Daichi Yamamoto" id="141" weight="1" />
+      <edge source="AAAMYYY" target="Yaffle" id="142" weight="1" />
+      <edge source="Daichi Yamamoto" target="Yaffle" id="143" weight="1" />
+      <edge source="AKLO" target="KEIJU" id="144" weight="1" />
+      <edge source="AKLO" target="Kvi Baba" id="145" weight="1" />
+      <edge source="KEIJU" target="Kvi Baba" id="146" weight="1" />
+      <edge source="ASOBOiSM" target="MÖSHI" id="147" weight="1" />
+      <edge source="Adrenalize" target="Atmozfears" id="148" weight="1" />
+      <edge source="Adrenalize" target="Code Black" id="149" weight="1" />
+      <edge source="Adrenalize" target="Da Tweekaz" id="150" weight="1" />
+      <edge source="Adrenalize" target="Matthew Steeper" id="151" weight="1" />
+      <edge source="Adrenalize" target="Pulse" id="152" weight="1" />
+      <edge source="Code Black" target="Da Tweekaz" id="153" weight="1" />
+      <edge source="Code Black" target="Matthew Steeper" id="154" weight="1" />
+      <edge source="Da Tweekaz" target="Matthew Steeper" id="155" weight="1" />
+      <edge source="Matthew Steeper" target="Kosling" id="156" weight="1" />
+      <edge source="Matthew Steeper" target="Thomas Gold" id="157" weight="1" />
+      <edge source="Aerosmith" target="Run–D.M.C." id="158" weight="1" />
+      <edge source="Aitor Blond" target="Sounxstate" id="159" weight="1" />
+      <edge source="Alec Benjamin" target="Alessia Cara" id="160" weight="1" />
+      <edge source="Alessia Cara" target="Logic" id="161" weight="1" />
+      <edge source="Logic" target="Ansel Elgort" id="162" weight="1" />
+      <edge source="Alessia Labate" target="CHRNS" id="163" weight="1" />
+      <edge source="Alessia Labate" target="Rich Edwards" id="164" weight="1" />
+      <edge source="CHRNS" target="Rich Edwards" id="165" weight="1" />
+      <edge source="Alesso" target="Calvin Harris" id="166" weight="1" />
+      <edge source="Alesso" target="Hurts" id="167" weight="1" />
+      <edge source="Calvin Harris" target="Hurts" id="168" weight="1" />
+      <edge source="Calvin Harris" target="John Newman" id="169" weight="1" />
+      <edge source="Alicia Keys" target="Jack White" id="170" weight="1" />
+      <edge source="Alina Baraz" target="Galimatias" id="171" weight="1" />
+      <edge source="Alisa" target="Hoang" id="172" weight="1" />
+      <edge source="Hoang" target="Exede" id="173" weight="1" />
+      <edge source="AmanderSings" target="BEAUZ" id="174" weight="1" />
+      <edge source="AmanderSings" target="Ghost" id="175" weight="1" />
+      <edge source="BEAUZ" target="Ghost" id="176" weight="1" />
+      <edge source="BEAUZ" target="NEFFEX" id="177" weight="1" />
+      <edge source="Anaya Lovenote" target="Chanel West Coast" id="178" weight="1" />
+      <edge source="Anaya Lovenote" target="Salma Slims" id="179" weight="1" />
+      <edge source="Chanel West Coast" target="Salma Slims" id="180" weight="1" />
+      <edge source="Anderson .Paak" target="BJ The Chicago Kid" id="181" weight="1" />
+      <edge source="Anderson .Paak" target="Bruno Mars" id="182" weight="2" />
+      <edge source="Anderson .Paak" target="Chance the Rapper" id="183" weight="1" />
+      <edge source="Anderson .Paak" target="Raury" id="184" weight="1" />
+      <edge source="Anderson .Paak" target="Silk Sonic" id="185" weight="2" />
+      <edge source="Anderson .Paak" target="Ty Dolla $ign" id="186" weight="1" />
+      <edge source="BJ The Chicago Kid" target="Chance the Rapper" id="187" weight="1" />
+      <edge source="BJ The Chicago Kid" target="Raury" id="188" weight="1" />
+      <edge source="BJ The Chicago Kid" target="Ty Dolla $ign" id="189" weight="1" />
+      <edge source="Bruno Mars" target="David Guetta" id="190" weight="1" />
+      <edge source="Bruno Mars" target="Silk Sonic" id="191" weight="2" />
+      <edge source="Bruno Mars" target="Snoop Dogg" id="192" weight="1" />
+      <edge source="Chance the Rapper" target="Hundred Waters" id="193" weight="1" />
+      <edge source="Chance the Rapper" target="Macklemore" id="194" weight="1" />
+      <edge source="Chance the Rapper" target="Moses Sumney" id="195" weight="1" />
+      <edge source="Chance the Rapper" target="Raury" id="196" weight="1" />
+      <edge source="Chance the Rapper" target="Robin Hannibal" id="197" weight="1" />
+      <edge source="Chance the Rapper" target="Ryan Lewis" id="198" weight="1" />
+      <edge source="Chance the Rapper" target="Skrillex" id="199" weight="1" />
+      <edge source="Chance the Rapper" target="Ty Dolla $ign" id="200" weight="1" />
+      <edge source="Raury" target="Ty Dolla $ign" id="201" weight="1" />
+      <edge source="Ty Dolla $ign" target="Big Sean" id="202" weight="1" />
+      <edge source="Ty Dolla $ign" target="Kap G" id="203" weight="1" />
+      <edge source="Ty Dolla $ign" target="Quavo" id="204" weight="1" />
+      <edge source="Anklebreaker" target="D-Stroyer" id="205" weight="1" />
+      <edge source="Anklebreaker" target="Stormerz" id="206" weight="1" />
+      <edge source="Anklebreaker" target="TCM" id="207" weight="1" />
+      <edge source="Anklebreaker" target="Tom Leinad" id="208" weight="1" />
+      <edge source="D-Stroyer" target="Stormerz" id="209" weight="1" />
+      <edge source="D-Stroyer" target="Tom Leinad" id="210" weight="1" />
+      <edge source="Stormerz" target="Tom Leinad" id="211" weight="1" />
+      <edge source="Annie Lennox" target="Dave Stewart" id="212" weight="1" />
+      <edge source="Annie Lennox" target="Eurythmics" id="213" weight="1" />
+      <edge source="Dave Stewart" target="Eurythmics" id="214" weight="1" />
+      <edge source="Anuel AA" target="Becky G" id="215" weight="1" />
+      <edge source="Anuel AA" target="Brytiago" id="216" weight="1" />
+      <edge source="Anuel AA" target="DJ Luian" id="217" weight="2" />
+      <edge source="Anuel AA" target="Darell" id="218" weight="1" />
+      <edge source="Anuel AA" target="Mambo Kingz" id="219" weight="2" />
+      <edge source="Anuel AA" target="Nicky Jam" id="220" weight="1" />
+      <edge source="Anuel AA" target="Prince Royce" id="221" weight="1" />
+      <edge source="Becky G" target="DJ Luian" id="222" weight="1" />
+      <edge source="Becky G" target="Mambo Kingz" id="223" weight="1" />
+      <edge source="Becky G" target="Prince Royce" id="224" weight="1" />
+      <edge source="Brytiago" target="DJ Luian" id="225" weight="1" />
+      <edge source="Brytiago" target="Darell" id="226" weight="1" />
+      <edge source="Brytiago" target="Mambo Kingz" id="227" weight="1" />
+      <edge source="Brytiago" target="Nicky Jam" id="228" weight="1" />
+      <edge source="DJ Luian" target="Darell" id="229" weight="1" />
+      <edge source="DJ Luian" target="Mambo Kingz" id="230" weight="2" />
+      <edge source="DJ Luian" target="Nicky Jam" id="231" weight="1" />
+      <edge source="DJ Luian" target="Prince Royce" id="232" weight="1" />
+      <edge source="Darell" target="Mambo Kingz" id="233" weight="1" />
+      <edge source="Darell" target="Nicky Jam" id="234" weight="1" />
+      <edge source="Mambo Kingz" target="Nicky Jam" id="235" weight="1" />
+      <edge source="Mambo Kingz" target="Prince Royce" id="236" weight="1" />
+      <edge source="Arash Shadram" target="Coeus" id="237" weight="1" />
+      <edge source="Arash Shadram" target="Eleonora" id="238" weight="1" />
+      <edge source="Coeus" target="Eleonora" id="239" weight="1" />
+      <edge source="Aretha Franklin" target="George Michael" id="240" weight="1" />
+      <edge source="George Michael" target="Elton John" id="241" weight="1" />
+      <edge source="George Michael" target="Mary J. Blige" id="242" weight="1" />
+      <edge source="Ari Lennox" target="Dreamville" id="243" weight="1" />
+      <edge source="Ariana Grande" target="The Weeknd" id="244" weight="1" />
+      <edge source="The Weeknd" target="Doja Cat" id="245" weight="1" />
+      <edge source="The Weeknd" target="NAV" id="246" weight="1" />
+      <edge source="Armand Van Helden" target="Dizzee Rascal" id="247" weight="1" />
+      <edge source="Au5" target="HALIENE" id="248" weight="1" />
+      <edge source="August Alsina" target="Curren$y" id="249" weight="1" />
+      <edge source="August Alsina" target="Fabolous" id="250" weight="1" />
+      <edge source="Fabolous" target="DJ Drama" id="251" weight="1" />
+      <edge source="Fabolous" target="Jhené Aiko" id="252" weight="1" />
+      <edge source="Fabolous" target="Tory Lanez" id="253" weight="1" />
+      <edge source="Fabolous" target="Trey Songz" id="254" weight="1" />
+      <edge source="Awakend" target="Outwild" id="255" weight="1" />
+      <edge source="Awakend" target="The Ready Set" id="256" weight="1" />
+      <edge source="Outwild" target="The Ready Set" id="257" weight="1" />
+      <edge source="Axollo" target="Josh Bogert" id="258" weight="1" />
+      <edge source="BIA" target="Nicki Minaj" id="259" weight="1" />
+      <edge source="BTS" target="Coldplay" id="260" weight="1" />
+      <edge source="Coldplay" target="Rihanna" id="261" weight="1" />
+      <edge source="BUMKEY" target="MIYACHI" id="262" weight="1" />
+      <edge source="Bankroll Fresh" target="Street Money Boochie" id="263" weight="1" />
+      <edge source="Bankroll Fresh" target="Travis Porter" id="264" weight="1" />
+      <edge source="Street Money Boochie" target="Travis Porter" id="265" weight="1" />
+      <edge source="Barbara Dickson" target="Elaine Paige" id="266" weight="1" />
+      <edge source="Barbra Streisand" target="Bryan Adams" id="267" weight="1" />
+      <edge source="Barbra Streisand" target="Céline Dion" id="268" weight="1" />
+      <edge source="Bryan Adams" target="Melanie C" id="269" weight="1" />
+      <edge source="Bassnectar" target="Lafa Taylor" id="270" weight="1" />
+      <edge source="Bassnectar" target="Ohana Bam" id="271" weight="1" />
+      <edge source="Lafa Taylor" target="Ohana Bam" id="272" weight="1" />
+      <edge source="Benjazzy" target="JJJ" id="273" weight="1" />
+      <edge source="Bibiane Z" target="Thimlife" id="274" weight="1" />
+      <edge source="Bill Medley" target="Jennifer Warnes" id="275" weight="1" />
+      <edge source="Jennifer Warnes" target="Joe Cocker" id="276" weight="1" />
+      <edge source="Billy Idol" target="Generation X" id="277" weight="1" />
+      <edge source="Billy J. Kramer" target="The Dakotas" id="278" weight="2" />
+      <edge source="BoA" target="Mondo Grosso" id="279" weight="1" />
+      <edge source="Boosie Badazz" target="T.I." id="280" weight="1" />
+      <edge source="Brendon Urie" target="Juice WRLD" id="281" weight="1" />
+      <edge source="Brendon Urie" target="benny blanco" id="282" weight="1" />
+      <edge source="Juice WRLD" target="benny blanco" id="283" weight="1" />
+      <edge source="Britney Spears" target="Madonna" id="284" weight="1" />
+      <edge source="Britney Spears" target="Pharrell Williams" id="285" weight="1" />
+      <edge source="Britney Spears" target="The Neptunes" id="286" weight="1" />
+      <edge source="Pharrell Williams" target="Snoop Dogg" id="287" weight="1" />
+      <edge source="Pharrell Williams" target="The Neptunes" id="288" weight="1" />
+      <edge source="BullySongs" target="EL3CTRXX" id="289" weight="1" />
+      <edge source="BullySongs" target="Riggi &amp; Piros" id="290" weight="1" />
+      <edge source="EL3CTRXX" target="Riggi &amp; Piros" id="291" weight="1" />
+      <edge source="C.O.S.A." target="KID FRESINO" id="292" weight="1" />
+      <edge source="CHAI" target="Confidence Man" id="293" weight="1" />
+      <edge source="CHAMELEON LIME WHOOPIEPIE" target="TCTS" id="294" weight="1" />
+      <edge source="CMA" target="Electus" id="295" weight="1" />
+      <edge source="Cardi B" target="Lizzo" id="296" weight="1" />
+      <edge source="Cardi B" target="Normani" id="297" weight="1" />
+      <edge source="Carrie Underwood" target="Jason Aldean" id="298" weight="1" />
+      <edge source="Carrie Underwood" target="Keith Urban" id="299" weight="1" />
+      <edge source="Keith Urban" target="P!nk" id="300" weight="1" />
+      <edge source="Caslow" target="Exede" id="301" weight="2" />
+      <edge source="Caslow" target="Molly Marrs" id="302" weight="1" />
+      <edge source="Caslow" target="Nick Ledesma" id="303" weight="1" />
+      <edge source="Caslow" target="TIMO" id="304" weight="1" />
+      <edge source="Exede" target="GhostDragon" id="305" weight="1" />
+      <edge source="Exede" target="TIMO" id="306" weight="1" />
+      <edge source="Exede" target="yetep" id="307" weight="1" />
+      <edge source="Molly Marrs" target="Nick Ledesma" id="308" weight="1" />
+      <edge source="Nick Ledesma" target="Natalie Major" id="309" weight="1" />
+      <edge source="Cazzu" target="Dalex" id="310" weight="1" />
+      <edge source="Cazzu" target="Feid" id="311" weight="1" />
+      <edge source="Cazzu" target="KHEA" id="312" weight="1" />
+      <edge source="Cazzu" target="Lenny Tavárez" id="313" weight="1" />
+      <edge source="Cazzu" target="Rafa Pabön" id="314" weight="1" />
+      <edge source="Cazzu" target="Sech" id="315" weight="1" />
+      <edge source="Dalex" target="Feid" id="316" weight="1" />
+      <edge source="Dalex" target="KHEA" id="317" weight="1" />
+      <edge source="Dalex" target="Lenny Tavárez" id="318" weight="1" />
+      <edge source="Dalex" target="Rafa Pabön" id="319" weight="1" />
+      <edge source="Dalex" target="Sech" id="320" weight="1" />
+      <edge source="Feid" target="KHEA" id="321" weight="1" />
+      <edge source="Feid" target="Lenny Tavárez" id="322" weight="1" />
+      <edge source="Feid" target="Rafa Pabön" id="323" weight="1" />
+      <edge source="Feid" target="Sech" id="324" weight="1" />
+      <edge source="KHEA" target="Lenny Tavárez" id="325" weight="1" />
+      <edge source="KHEA" target="Rafa Pabön" id="326" weight="1" />
+      <edge source="KHEA" target="Sech" id="327" weight="1" />
+      <edge source="Lenny Tavárez" target="Rafa Pabön" id="328" weight="1" />
+      <edge source="Lenny Tavárez" target="Sech" id="329" weight="1" />
+      <edge source="Rafa Pabön" target="Sech" id="330" weight="1" />
+      <edge source="Cerys Matthews" target="Tom Jones" id="331" weight="1" />
+      <edge source="Tom Jones" target="The Cardigans" id="332" weight="1" />
+      <edge source="Hundred Waters" target="Moses Sumney" id="333" weight="1" />
+      <edge source="Hundred Waters" target="Robin Hannibal" id="334" weight="1" />
+      <edge source="Hundred Waters" target="Skrillex" id="335" weight="1" />
+      <edge source="Macklemore" target="Ryan Lewis" id="336" weight="1" />
+      <edge source="Macklemore" target="Skylar Grey" id="337" weight="1" />
+      <edge source="Moses Sumney" target="Robin Hannibal" id="338" weight="1" />
+      <edge source="Moses Sumney" target="Skrillex" id="339" weight="1" />
+      <edge source="Robin Hannibal" target="Skrillex" id="340" weight="1" />
+      <edge source="Chase Rice" target="Florida Georgia Line" id="341" weight="1" />
+      <edge source="Florida Georgia Line" target="Nelly" id="342" weight="1" />
+      <edge source="Chasing Grace" target="James Arthur" id="343" weight="1" />
+      <edge source="Cheat Codes" target="Demi Lovato" id="344" weight="1" />
+      <edge source="Chinx" target="Jeremih" id="345" weight="1" />
+      <edge source="Chinx" target="MeetSims" id="346" weight="1" />
+      <edge source="DJ Drama" target="Jhené Aiko" id="347" weight="1" />
+      <edge source="DJ Drama" target="Tory Lanez" id="348" weight="1" />
+      <edge source="DJ Drama" target="Trey Songz" id="349" weight="1" />
+      <edge source="H.E.R." target="Daniel Caesar" id="350" weight="1" />
+      <edge source="JUVENILE" target="Juicy J" id="351" weight="1" />
+      <edge source="JUVENILE" target="Taichi Mukai" id="352" weight="1" />
+      <edge source="Jhené Aiko" target="Tory Lanez" id="353" weight="1" />
+      <edge source="Jhené Aiko" target="Trey Songz" id="354" weight="1" />
+      <edge source="Kevin McCall" target="Tyga" id="355" weight="1" />
+      <edge source="Rick Ross" target="Usher" id="356" weight="1" />
+      <edge source="Tory Lanez" target="Trey Songz" id="357" weight="1" />
+      <edge source="Tyga" target="Kanye West" id="358" weight="1" />
+      <edge source="Usher" target="ZAYN" id="359" weight="1" />
+      <edge source="ZAYN" target="Sia" id="360" weight="1" />
+      <edge source="Chris James" target="deadmau5" id="361" weight="1" />
+      <edge source="deadmau5" target="Kiesza" id="362" weight="1" />
+      <edge source="deadmau5" target="Lamorn" id="363" weight="1" />
+      <edge source="Chris Young" target="Kane Brown" id="364" weight="1" />
+      <edge source="Kane Brown" target="blackbear" id="365" weight="1" />
+      <edge source="Christoph Andersson" target="G-Eazy" id="366" weight="1" />
+      <edge source="G-Eazy" target="E-40" id="367" weight="1" />
+      <edge source="G-Eazy" target="Jay Anthony" id="368" weight="1" />
+      <edge source="Colbie Caillat" target="Jason Mraz" id="369" weight="1" />
+      <edge source="Rihanna" target="Kendrick Lamar" id="370" weight="1" />
+      <edge source="Rihanna" target="Maroon 5" id="371" weight="1" />
+      <edge source="Rihanna" target="Mikky Ekko" id="372" weight="1" />
+      <edge source="Cory Gunz" target="Lil Wayne" id="373" weight="2" />
+      <edge source="Lil Wayne" target="Eminem" id="374" weight="1" />
+      <edge source="Lil Wayne" target="Gucci Mane" id="375" weight="1" />
+      <edge source="Lil Wayne" target="Kanye West" id="376" weight="1" />
+      <edge source="Lil Wayne" target="Wale" id="377" weight="1" />
+      <edge source="Craig David" target="Sting" id="378" weight="1" />
+      <edge source="DE DE MOUSE" target="ぷにぷに電機" id="379" weight="1" />
+      <edge source="ぷにぷに電機" target="Kan Sano" id="380" weight="1" />
+      <edge source="DJ Khaled" target="Lil Baby" id="381" weight="1" />
+      <edge source="DJ Khaled" target="Lil Durk" id="382" weight="1" />
+      <edge source="Lil Baby" target="Jacquees" id="383" weight="1" />
+      <edge source="Lil Baby" target="Lil Durk" id="384" weight="1" />
+      <edge source="DROELOE" target="TWO LANES" id="385" weight="1" />
+      <edge source="DaBaby" target="Dua Lipa" id="386" weight="1" />
+      <edge source="Dua Lipa" target="Elton John" id="387" weight="1" />
+      <edge source="Dua Lipa" target="PNAU" id="388" weight="1" />
+      <edge source="Lil Yachty" target="KYLE" id="389" weight="2" />
+      <edge source="Lil Yachty" target="Quavo" id="390" weight="1" />
+      <edge source="Lil Yachty" target="Shelley FKA DRAM" id="391" weight="1" />
+      <edge source="Lil Yachty" target="Skippa Da Flippa" id="392" weight="1" />
+      <edge source="Lil Yachty" target="Tee Grizzley" id="393" weight="1" />
+      <edge source="Lil Yachty" target="YFN Lucci" id="394" weight="1" />
+      <edge source="Daft Punk" target="The Glitch Mob" id="395" weight="1" />
+      <edge source="Daniel Caesar" target="Giveon" id="396" weight="1" />
+      <edge source="Daniel Caesar" target="Justin Bieber" id="397" weight="1" />
+      <edge source="Giveon" target="Justin Bieber" id="398" weight="1" />
+      <edge source="Justin Bieber" target="Halsey" id="399" weight="1" />
+      <edge source="Justin Bieber" target="Tems" id="400" weight="1" />
+      <edge source="Justin Bieber" target="The Kid LAROI" id="401" weight="1" />
+      <edge source="Justin Bieber" target="WizKid" id="402" weight="1" />
+      <edge source="Darren Styles" target="Dougal" id="403" weight="1" />
+      <edge source="Darren Styles" target="Jacob Wellfair" id="404" weight="1" />
+      <edge source="Dougal" target="Jacob Wellfair" id="405" weight="1" />
+      <edge source="Dave Days" target="Jarrod Alonge" id="406" weight="1" />
+      <edge source="David Bowie" target="Queen" id="407" weight="2" />
+      <edge source="Daya" target="Hardwell" id="408" weight="1" />
+      <edge source="Daya" target="Sephyx" id="409" weight="1" />
+      <edge source="Daya" target="The Chainsmokers" id="410" weight="1" />
+      <edge source="Hardwell" target="Sephyx" id="411" weight="1" />
+      <edge source="Hardwell" target="The Chainsmokers" id="412" weight="1" />
+      <edge source="Sephyx" target="The Chainsmokers" id="413" weight="1" />
+      <edge source="The Chainsmokers" target="sirenXX" id="414" weight="1" />
+      <edge source="DeJ Loaf" target="Jacquees" id="415" weight="1" />
+      <edge source="Jacquees" target="Lil Gotit" id="416" weight="1" />
+      <edge source="Jacquees" target="Lil Keed" id="417" weight="1" />
+      <edge source="Devon Baldwin" target="Nurko" id="418" weight="1" />
+      <edge source="Diana Ross" target="Lionel Richie" id="419" weight="1" />
+      <edge source="Diana Ross" target="Marvin Gaye" id="420" weight="1" />
+      <edge source="Dido" target="Eminem" id="421" weight="1" />
+      <edge source="Eminem" target="Kanye West" id="422" weight="1" />
+      <edge source="Eminem" target="Nate Dogg" id="423" weight="1" />
+      <edge source="Disclosure" target="Sam Smith" id="424" weight="1" />
+      <edge source="Doja Cat" target="SZA" id="425" weight="1" />
+      <edge source="Doja Cat" target="Saweetie" id="426" weight="1" />
+      <edge source="SZA" target="Lorde" id="427" weight="1" />
+      <edge source="Domeno" target="Garrett Raff" id="428" weight="1" />
+      <edge source="Domeno" target="Karl Sylver" id="429" weight="1" />
+      <edge source="Garrett Raff" target="Karl Sylver" id="430" weight="1" />
+      <edge source="Gucci Mane" target="Offset" id="431" weight="1" />
+      <edge source="Gucci Mane" target="Rae Sremmurd" id="432" weight="1" />
+      <edge source="Kanye West" target="JAY-Z" id="433" weight="1" />
+      <edge source="Kendrick Lamar" target="Imagine Dragons" id="434" weight="1" />
+      <edge source="Kyla" target="WizKid" id="435" weight="1" />
+      <edge source="Travis Scott" target="Quavo" id="436" weight="1" />
+      <edge source="WizKid" target="Tems" id="437" weight="2" />
+      <edge source="Young Money" target="Lloyd" id="438" weight="1" />
+      <edge source="Elton John" target="Kiki Dee" id="439" weight="1" />
+      <edge source="Elton John" target="PNAU" id="440" weight="1" />
+      <edge source="E-40" target="Jay Anthony" id="441" weight="1" />
+      <edge source="EMEL" target="Stonebank" id="442" weight="1" />
+      <edge source="East 17" target="Gabrielle" id="443" weight="1" />
+      <edge source="Ed Sheeran" target="Taylor Swift" id="444" weight="1" />
+      <edge source="Elley Duhé" target="Gryffin" id="445" weight="1" />
+      <edge source="Elley Duhé" target="Steve Aoki" id="446" weight="1" />
+      <edge source="Gryffin" target="Ivy Adara" id="447" weight="1" />
+      <edge source="Gryffin" target="Steve Aoki" id="448" weight="1" />
+      <edge source="Elyn" target="Jay Reeve" id="449" weight="1" />
+      <edge source="Emeli Sandé" target="Labrinth" id="450" weight="1" />
+      <edge source="En Vogue" target="Salt-N-Pepa" id="451" weight="1" />
+      <edge source="Eurielle" target="Quality Control" id="452" weight="1" />
+      <edge source="GhostDragon" target="yetep" id="453" weight="1" />
+      <edge source="yetep" target="Kaidro" id="454" weight="1" />
+      <edge source="FRONTIER BACKYARD" target="Hugh Kim" id="455" weight="1" />
+      <edge source="Fausto Fanizza" target="Thomas Schwartz" id="456" weight="1" />
+      <edge source="Feyln" target="Tristan Klampert" id="457" weight="1" />
+      <edge source="Flaremode" target="Krimsonn" id="458" weight="1" />
+      <edge source="Flaremode" target="Thomas Gold" id="459" weight="1" />
+      <edge source="Krimsonn" target="Thomas Gold" id="460" weight="1" />
+      <edge source="Thomas Gold" target="Kosling" id="461" weight="1" />
+      <edge source="Freddie Mercury" target="Montserrat Caballé" id="462" weight="1" />
+      <edge source="G.R.L." target="Pitbull" id="463" weight="1" />
+      <edge source="Gambitt" target="Gil Zambrano" id="464" weight="1" />
+      <edge source="Gambitt" target="Into The Ether" id="465" weight="1" />
+      <edge source="Gil Zambrano" target="Into The Ether" id="466" weight="1" />
+      <edge source="Gareth Gates" target="Will Young" id="467" weight="1" />
+      <edge source="Garrett Nash" target="Olivia O'Brien" id="468" weight="1" />
+      <edge source="Gary Barlow" target="Robbie Williams" id="469" weight="1" />
+      <edge source="Robbie Williams" target="Kylie Minogue" id="470" weight="1" />
+      <edge source="Robbie Williams" target="Nicole Kidman" id="471" weight="1" />
+      <edge source="Mary J. Blige" target="U2" id="472" weight="1" />
+      <edge source="Glen Hansard" target="Markéta Irglová" id="473" weight="1" />
+      <edge source="Gotye" target="Kimbra" id="474" weight="1" />
+      <edge source="Green Day" target="John Gallagher Jr." id="475" weight="1" />
+      <edge source="Green Day" target="Rebecca Naomi Jones" id="476" weight="1" />
+      <edge source="Green Day" target="Stark Sands" id="477" weight="1" />
+      <edge source="Green Day" target="The American Idiot Broadway Company" id="478" weight="1" />
+      <edge source="John Gallagher Jr." target="Rebecca Naomi Jones" id="479" weight="1" />
+      <edge source="John Gallagher Jr." target="Stark Sands" id="480" weight="1" />
+      <edge source="John Gallagher Jr." target="The American Idiot Broadway Company" id="481" weight="1" />
+      <edge source="Rebecca Naomi Jones" target="Stark Sands" id="482" weight="1" />
+      <edge source="Rebecca Naomi Jones" target="The American Idiot Broadway Company" id="483" weight="1" />
+      <edge source="Stark Sands" target="The American Idiot Broadway Company" id="484" weight="1" />
+      <edge source="Hal David" target="John Barry" id="485" weight="1" />
+      <edge source="Hal David" target="Shirley Bassey" id="486" weight="1" />
+      <edge source="John Barry" target="Shirley Bassey" id="487" weight="1" />
+      <edge source="Halston Dare" target="Riddler" id="488" weight="1" />
+      <edge source="Hellblasterz" target="Kevu" id="489" weight="1" />
+      <edge source="Hellblasterz" target="Luca Testa" id="490" weight="1" />
+      <edge source="Kevu" target="Luca Testa" id="491" weight="1" />
+      <edge source="Herbie Hancock" target="笠井 紀美子" id="492" weight="1" />
+      <edge source="Hikari" target="Tokimeki Records" id="493" weight="1" />
+      <edge source="Hogland" target="KIDDO" id="494" weight="1" />
+      <edge source="ISH-ONE" target="TEAM2MVCH" id="495" weight="1" />
+      <edge source="J. Davi$" target="Rob $tone" id="496" weight="1" />
+      <edge source="J. Davi$" target="Spooks" id="497" weight="1" />
+      <edge source="Rob $tone" target="Spooks" id="498" weight="1" />
+      <edge source="JB Brubaker" target="Sunrise Skater Kids" id="499" weight="1" />
+      <edge source="JNKMN" target="Leon Fanourakis" id="500" weight="1" />
+      <edge source="JNKMN" target="MFS" id="501" weight="1" />
+      <edge source="JNKMN" target="MONY HORSE" id="502" weight="1" />
+      <edge source="JNKMN" target="SPARTA" id="503" weight="1" />
+      <edge source="Leon Fanourakis" target="MFS" id="504" weight="1" />
+      <edge source="Leon Fanourakis" target="MONY HORSE" id="505" weight="1" />
+      <edge source="Leon Fanourakis" target="SPARTA" id="506" weight="1" />
+      <edge source="MFS" target="MONY HORSE" id="507" weight="1" />
+      <edge source="MFS" target="SPARTA" id="508" weight="1" />
+      <edge source="MONY HORSE" target="SPARTA" id="509" weight="1" />
+      <edge source="JRL" target="Jonny Rose" id="510" weight="1" />
+      <edge source="JRL" target="Manse" id="511" weight="1" />
+      <edge source="Jonny Rose" target="Manse" id="512" weight="1" />
+      <edge source="Jack Harlow" target="Lil Nas X" id="513" weight="1" />
+      <edge source="Lil Gotit" target="Lil Keed" id="514" weight="1" />
+      <edge source="James Morrison" target="Nelly Furtado" id="515" weight="1" />
+      <edge source="James Ty" target="King CAAN" id="516" weight="1" />
+      <edge source="Janelle Monáe" target="fun." id="517" weight="1" />
+      <edge source="Jason Donovan" target="Kylie Minogue" id="518" weight="1" />
+      <edge source="Jason Ross" target="Jonathan Mendelsohn" id="519" weight="1" />
+      <edge source="Jason Ross" target="Seven Lions" id="520" weight="1" />
+      <edge source="Jonathan Mendelsohn" target="Seven Lions" id="521" weight="1" />
+      <edge source="Johnny Cash" target="June Carter Cash" id="522" weight="1" />
+      <edge source="Jonas Brothers" target="Marshmello" id="523" weight="1" />
+      <edge source="Jordyn Oran" target="KRYSTO" id="524" weight="1" />
+      <edge source="The Kid LAROI" target="Polo G" id="525" weight="1" />
+      <edge source="The Kid LAROI" target="Stunna Gambino" id="526" weight="1" />
+      <edge source="KIRINJI" target="Maika Loubté" id="527" weight="1" />
+      <edge source="Kali Uchis" target="Tyler, The Creator" id="528" weight="1" />
+      <edge source="blackbear" target="Machine Gun Kelly" id="529" weight="1" />
+      <edge source="Kap G" target="Quavo" id="530" weight="1" />
+      <edge source="Quavo" target="Liam Payne" id="531" weight="1" />
+      <edge source="Quavo" target="Skippa Da Flippa" id="532" weight="1" />
+      <edge source="Keith Ape" target="Rich Brian" id="533" weight="1" />
+      <edge source="Keith Ape" target="XXXTENTACION" id="534" weight="1" />
+      <edge source="Rich Brian" target="XXXTENTACION" id="535" weight="1" />
+      <edge source="XXXTENTACION" target="Trippie Redd" id="536" weight="1" />
+      <edge source="Kellin Quinn" target="Pierce The Veil" id="537" weight="1" />
+      <edge source="Kevin Flum" target="Speaker Knockerz" id="538" weight="1" />
+      <edge source="Kid Cudi" target="MGMT" id="539" weight="1" />
+      <edge source="Kid Cudi" target="Ratatat" id="540" weight="1" />
+      <edge source="MGMT" target="Ratatat" id="541" weight="1" />
+      <edge source="Kiesza" target="Lamorn" id="542" weight="1" />
+      <edge source="Kimberg" target="Ovylarock" id="543" weight="1" />
+      <edge source="Kirsty MacColl" target="The Pogues" id="544" weight="1" />
+      <edge source="Kiyotaka Sugiyama" target="S. Kiyotaka &amp; Omega Tribe" id="545" weight="23" />
+      <edge source="Kosling" target="LUX" id="546" weight="1" />
+      <edge source="Kosling" target="OMZ" id="547" weight="1" />
+      <edge source="Kosling" target="Robbie Rosen" id="548" weight="1" />
+      <edge source="Kosling" target="Still Young" id="549" weight="1" />
+      <edge source="OMZ" target="Still Young" id="550" weight="1" />
+      <edge source="LAGHEADS" target="kiki vivi lily" id="551" weight="1" />
+      <edge source="kiki vivi lily" target="SIRUP" id="552" weight="1" />
+      <edge source="kiki vivi lily" target="サトウユウヤ" id="553" weight="1" />
+      <edge source="Laniia" target="VIZE" id="554" weight="1" />
+      <edge source="Lasso the Sun" target="Patrick Key" id="555" weight="1" />
+      <edge source="Lasso the Sun" target="WildVibes" id="556" weight="1" />
+      <edge source="Patrick Key" target="WildVibes" id="557" weight="1" />
+      <edge source="Last Heroes" target="Lunis" id="558" weight="1" />
+      <edge source="Leila Pari" target="N3WPORT" id="559" weight="1" />
+      <edge source="Lennon" target="Orono" id="560" weight="1" />
+      <edge source="Lennon" target="mabanua" id="561" weight="1" />
+      <edge source="Orono" target="mabanua" id="562" weight="1" />
+      <edge source="Luca" target="NVRT" id="563" weight="1" />
+      <edge source="Maki Nomiya" target="Night Tempo" id="564" weight="1" />
+      <edge source="Mako" target="Steve Angello" id="565" weight="1" />
+      <edge source="Maren Morris" target="Ryan Hurd" id="566" weight="1" />
+      <edge source="Mariah Carey" target="Westlife" id="567" weight="1" />
+      <edge source="Mariah Carey" target="Whitney Houston" id="568" weight="1" />
+      <edge source="Mark With a K" target="Xillions" id="569" weight="1" />
+      <edge source="Maroon 5" target="Megan Thee Stallion" id="570" weight="1" />
+      <edge source="Masaaki Hirao" target="Yoko Hatanaka" id="571" weight="1" />
+      <edge source="Michael Kaneko" target="Yu Sakai" id="572" weight="1" />
+      <edge source="Mitchell Niemeyer" target="The Partysquad" id="573" weight="1" />
+      <edge source="Mr. Ivex" target="Sefa" id="574" weight="1" />
+      <edge source="NF Zessho" target="RhymeTube" id="575" weight="1" />
+      <edge source="NF Zessho" target="ZIN" id="576" weight="1" />
+      <edge source="RhymeTube" target="ZIN" id="577" weight="1" />
+      <edge source="Nao'ymt" target="OHTORA" id="578" weight="1" />
+      <edge source="Naomi Wild" target="ODESZA" id="579" weight="1" />
+      <edge source="Neneh Cherry" target="Youssou N'Dour" id="580" weight="1" />
+      <edge source="Nezumi Coo" target="Peach Boi" id="581" weight="1" />
+      <edge source="Noiseshock" target="Refuzion" id="582" weight="1" />
+      <edge source="O.T. Genasis" target="Young Dolph" id="583" weight="1" />
+      <edge source="Ofenbach" target="Portugal. The Man" id="584" weight="1" />
+      <edge source="Original Love" target="Ovall" id="585" weight="1" />
+      <edge source="Patsy Cline" target="The Jordanaires" id="586" weight="2" />
+      <edge source="Paula Abdul" target="The Wild Pair" id="587" weight="1" />
+      <edge source="Peabo Bryson" target="Regina Belle" id="588" weight="1" />
+      <edge source="Phil Collins" target="Philip Bailey" id="589" weight="1" />
+      <edge source="Polo G" target="Stunna Gambino" id="590" weight="1" />
+      <edge source="Regard" target="Tate McRae" id="591" weight="1" />
+      <edge source="Regard" target="Troye Sivan" id="592" weight="1" />
+      <edge source="Tate McRae" target="Troye Sivan" id="593" weight="1" />
+      <edge source="Rich Gang" target="Rich Homie Quan" id="594" weight="1" />
+      <edge source="Rob Thomas" target="Santana" id="595" weight="1" />
+      <edge source="Rosemary Clooney" target="The Mellomen" id="596" weight="2" />
+      <edge source="SHIMA" target="Sumire" id="597" weight="1" />
+      <edge source="SIRUP" target="サトウユウヤ" id="598" weight="1" />
+      <edge source="Shin Sakiura" target="TENDRE" id="599" weight="1" />
+      <edge source="Smokepurpp" target="Trippie Redd" id="600" weight="1" />
+      <edge source="VivaOla" target="Wez Atlas" id="601" weight="1" />
+      <edge source="Yosuke Nakano" target="yobai suspects" id="602" weight="1" />
+      <edge source="guardin" target="guccihighwaters" id="603" weight="1" />
+    </edges>
+  </graph>
+</gexf>
